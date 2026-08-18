@@ -2,7 +2,7 @@
 
 
 
-(Ce projet utilisant des bibliothèques jamais vues auparavant pour ma part, et étant fraîchement sorti du lycée tout en préparant ma future rentrée, j'ai préféré laissé une intelligence artificielle faire ce projet. Cela m'a permis de m'entraîner sur mon prompting.
+(Ce projet utilisant des bibliothèques jamais vues auparavant pour ma part, et étant fraîchement sorti du lycée tout en préparant ma future rentrée, j'ai préféré laisser une intelligence artificielle faire ce projet. Cela m'a permis de m'entraîner sur mon prompting.
 
 
 
