@@ -1,4 +1,4 @@
-# Éditeur de CV LaTeX — V2
+# Éditeur de CV LaTeX
 
 Cette version sépare deux choses :
 
@@ -13,7 +13,7 @@ Cet éditeur est très utile dans le cas d'un CV car toucher à la syntaxe LaTeX
 Dans PowerShell ou CMD :
 
 ```bat
-cd C:\votre_chemin_vers\latex_cv_editor_v2
+cd C:\votre_chemin_vers\editeur_cv_latex
 py -m pip install -r requirements.txt
 py main.py
 ```
