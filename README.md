@@ -32,7 +32,8 @@ MiKTeX doit être installé pour l'export PDF. Vérification :
 pdflatex --version
 ```
 
-Si cette commande fonctionne, l'application devrait pouvoir utiliser MiKTeX.
+Si cette commande fonctionne, l'application devrait pouvoir utiliser MiKTeX. 
+Sinon vous pouvez l'installer en cliquant [ici](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-25.12-x64.exe)
 
 ## Aperçu
 
